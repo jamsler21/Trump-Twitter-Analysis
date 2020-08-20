@@ -409,7 +409,7 @@ addmargins(table(merged_tables2$market_moving))
     ##     0     1   Sum 
     ##  8399  3362 11761
 
-There is about a \~20% chance there is a market moving day, and most of
+There is about a \~20% chance his tweets are associated with large market movements, and most of
 his tweets fall into the “positive” or “negative” category
 
 The following groups dataframe by date
@@ -782,7 +782,7 @@ about this project is that it definitely doesn’t have to be confined to
 just Donald Trump either - observations similar to this can be observed
 everywhere. For example, when Elon Musk, another incredibly powerful
 individual who is very liberal with what he says on twitter, tweets that
-his stock price is too high, Tesla’s stock price tanks 10%. Im the
+his stock price is too high, Tesla’s stock price tanks 10%. In the
 future, I would love to be able to apply this process to other high
 rankings officials and the stock of their corresponding organizations.
 Until next time\!
