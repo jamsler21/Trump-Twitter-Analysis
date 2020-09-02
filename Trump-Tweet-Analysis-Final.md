@@ -682,8 +682,8 @@ str(topics10$theta, 10)
 Based on the available data from the above topics: I have assigned each
 topic the following label:
 
-1: US White House & Military (18%) 3: Donald Trump (wtf??) (15%) 5: Fake
-News (again… wtf) (12%) 9: Witch Hunt (11%) 8: US / Mexico border (11%)
+1: US White House & Military (18%) 3: Donald Trump (15%) 5: Fake
+News (12%) 9: Witch Hunt (11%) 8: US / Mexico border (11%)
 6: Democrats (7%) 7: American Jobs (7%) 4: Foreign Policy and Trade (7%)
 10: State of US Economy (6%) 2: US Election and Nancy Pelosi (6%)
 
